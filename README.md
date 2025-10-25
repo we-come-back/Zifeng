@@ -57,4 +57,4 @@
 本项目为七牛云内部黑客松参赛作品，欢迎提出建议和反馈。
 
 * 项目小组： [We come back]
-* 灵矽文档： [https://linx.qiniu.com/docs/](https://linx.qiniu.com/docs/)
+* 七牛灵矽 AI 文档： [https://linx.qiniu.com/docs/](https://linx.qiniu.com/docs/)
