@@ -329,9 +329,5 @@
 - 维基百科：[Z世代](https://zh.wikipedia.org/zh-cn/Z%E4%B8%96%E4%BB%A3)
 - 百度百科：[Z世代](https://baike.baidu.com/item/Z%E4%B8%96%E4%BB%A3/20808405)
 
-### 张子枫资料
-- 维基百科：[张子枫](https://zh.wikipedia.org/zh-cn/%E5%BC%A0%E5%AD%90%E6%9E%AB)
-- 百度百科：[张子枫](https://baike.baidu.com/item/%E5%BC%A0%E5%AD%90%E6%9E%AB)
-
 ### 相关文档
-- [AI角色文档.md](../AI角色文档.md) - SuperSpark AI Assistant 角色设计基础文档
+- [AI角色文档.md](../AI角色文档.md) - AI Assistant 角色设计基础文档
