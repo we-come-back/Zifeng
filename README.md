@@ -1,3 +1,3 @@
-# superspark
+# AI Assistant
 
-SuperSpark AI Project
+AI Assistant Project
