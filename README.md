@@ -59,6 +59,11 @@
 
 ---
 
+## video
+http://p94onsyz7.bkt.clouddn.com/wecomback.mp4
+
+---
+
 ⭐ 欢迎为本项目点亮小星星，或通过七牛灵矽 AI 与子枫交流！
 
 ### 🥚 命名彩蛋：关于“子枫”和“彩菊”
