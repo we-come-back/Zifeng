@@ -38,7 +38,7 @@
 #### 测试场景
 参考 test.md 中的测试场景进行验证。测试时注意:
 - 验证天使/恶魔模式的切换时机是否恰当
-- 检查语言风格是否符合 Z 世代特征  
+- 检查语言风格是否符合 Z 世代特征
 - 确认语音输出自然流畅
 
 
@@ -59,9 +59,15 @@
 
 ---
 
-## video
-- http://p94onsyz7.bkt.clouddn.com/wecomback.mp4
-- http://p94onsyz7.bkt.clouddn.com/wecomback-esp32-s.mp4
+## Video
+- [网页演示](http://p94onsyz7.bkt.clouddn.com/wecomback.mp4)
+- [Esp 32 开发板演示](http://p94onsyz7.bkt.clouddn.com/wecomback-esp32-s.mp4)
+
+## Photo
+
+![Photo 1](assets/IMG20251025192049.jpg)
+![Photo 2](assets/IMG20251025192225.jpg)
+
 
 ---
 
