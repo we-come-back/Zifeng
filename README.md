@@ -60,7 +60,8 @@
 ---
 
 ## video
-http://p94onsyz7.bkt.clouddn.com/wecomback.mp4
+- http://p94onsyz7.bkt.clouddn.com/wecomback.mp4
+- http://p94onsyz7.bkt.clouddn.com/wecomback-esp32-s.mp4
 
 ---
 
