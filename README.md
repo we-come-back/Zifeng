@@ -61,7 +61,7 @@
 
 ## Video
 - [网页演示](http://p94onsyz7.bkt.clouddn.com/wecomback.mp4)
-- [Esp 32 开发板演示](http://p94onsyz7.bkt.clouddn.com/wecomback-esp32-s.mp4)
+- [ESP32 开发板演示](http://p94onsyz7.bkt.clouddn.com/wecomback-esp32-s.mp4)
 
 ## Photo
 
